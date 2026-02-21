@@ -1,0 +1,49 @@
+.bg1{
+    background-color: #80d0c7;
+}
+.tx{
+    text-align: center;
+}
+.tx2{
+text-align: left;
+}
+.color{
+    color: white;
+}
+.color2{
+    color: #13547a;
+}
+.bg2{
+    background: linear-gradient( #80d0c7,#13547a);
+}
+.bg3{
+    background-color: white;
+}
+.bg4{
+    background-image: url('./tem2.jpg');
+    background-position: 50%;
+    background-repeat: no-repeat;
+    
+    
+}
+.bg5{
+    background-color: #13547a;
+}
+.bg6{
+    background-image: url('./6.htm');
+}
+.bg7{
+    color: black;
+}
+.bg8{
+    background-color: #F0F8FF;
+
+    
+}
+.bg9{
+    background-image: url('./2.jpg');
+}
+
+html, body {
+  overflow-x: hidden;
+}
